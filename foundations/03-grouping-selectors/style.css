@@ -1,0 +1,13 @@
+.Box{
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+}
+
+.Box#B1{
+    background-color: black;
+    color: white;
+}
+
+.Box#B2{
+    background-color: yellow;
+}
